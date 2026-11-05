@@ -83,4 +83,4 @@ Vous pouvez effacer la progression locale en supprimant l’application (et ses 
 
 ### Contact
 
-Questions relative à la confidentialité : **privacy@moecklidev.com**
+Questions relatives à la confidentialité : **privacy@moecklidev.com**
