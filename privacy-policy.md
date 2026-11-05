@@ -33,7 +33,7 @@ Apple may process limited technical data when you install or use the app through
 
 ### Children
 
-PowerLanes is intended for ages **13 and older**. It is not directed at children under 13 and is not offered in Apple’s Kids category.
+PowerLanes is rated **12+** on the App Store. It is not directed at young children and is not offered in Apple’s Kids category.
 
 ### Future changes
 
@@ -71,7 +71,7 @@ Apple peut traiter des données techniques limitées lorsque vous installez ou u
 
 ### Enfants
 
-PowerLanes s’adresse aux personnes de **13 ans et plus**. Elle n’est pas destinée aux enfants de moins de 13 ans et n’est pas proposée dans la catégorie Enfants d’Apple.
+PowerLanes est classé **12+** sur l’App Store. Elle n’est pas destinée aux jeunes enfants et n’est pas proposée dans la catégorie Enfants d’Apple.
 
 ### Évolutions futures
 
